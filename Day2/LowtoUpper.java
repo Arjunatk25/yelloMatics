@@ -4,7 +4,8 @@ public class LowtoUpper {
     
 
     public static void main(String[] args) {
-        
+     
+                
         String S1="ArJuN";
         System.out.println("given String is "+S1);
         char[] charA = S1.toCharArray();
